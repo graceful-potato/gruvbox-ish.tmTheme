@@ -150,6 +150,15 @@
 		</dict>
 		<dict>
 			<key>scope</key>
+			<string>meta.embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dfbf8e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
 			<string>meta.preprocessor</string>
 			<key>settings</key>
 			<dict>
